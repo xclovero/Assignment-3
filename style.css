@@ -1,0 +1,41 @@
+html {
+  font-family: arial, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  background-color: coral;
+}
+
+header, main {
+  max-width: 900px;
+  margin:auto;
+  padding:1rem;
+  background-color: white;
+  margin-bottom: 1rem;
+  border-radius: .5rem;
+  box-shadow: .2rem .2rem .4rem rgba(0,0,0,.3);
+
+}
+
+fieldset {
+  margin: 5px 10px;
+}
+
+legend {
+  background-color: coral;
+  color: white;
+  padding: 5px 10px;
+}
+
+h1 {
+  color:navy;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+a, a:visited {
+  color:slateblue;
+}
