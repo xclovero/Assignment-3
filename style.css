@@ -24,8 +24,9 @@ fieldset {
 
 legend {
   background-color: coral;
-  color: white;
+  color: #211612;
   padding: 5px 10px;
+  font-weight: bolder;
 }
 
 h1 {
